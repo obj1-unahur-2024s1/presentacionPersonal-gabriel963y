@@ -1,35 +1,28 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
+Bienvenidos a la presentaci√≥n de:
+# Gabriel Ybarra 
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
+``` wollok
 object programacionConObjetos { 
     method saludar() { 
-        return  "Bienvenidxs!" 
+        return  "Bienvenidos/as a todos!" 
     }
 }
 ```
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+## Sobre m√≠ üöÄ
+Buenas a todos, me llamo **Gabriel** y desde joven siempre fui interesado en todo el mundo de lo que es la inform√°tica en s√≠. Siempre tuve la curiosidad de saber como se crean las cosas, como funcionan, siempre ve√≠a series e historias sobre la creaci√≥n de alguna tecnolog√≠a, alg√∫n lenguaje y es un mundo maravilloso.
+Principalmente estoy interesado en aprender **desarrollo web full stack** aunque tambi√©n siempre estuve interesado en aprender sobre **ciberseguridad**. Es un mundo m√°s complejo puesto que no hay demasiada inforamci√≥n como la hay en el mundo del desarrollo web.
+En esta materia, me gustar√≠a aprender bien todos los conceptos de POO y poder crear un buen juego con mi grupo.
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+## Mis gustos üëΩ
+* Me encantan las series sobre la ciencia ficci√≥n
+* Me encanta las pel√≠culas, series e historias sobre hackers
+* Mi ser√≠e favorita son Flash ‚ö°, Scorpion ü¶Ç y The Expanse üåå (S√∫per recomendadas las 3)
+* Tengo 2 gatitas y un gatito
+* Amo a los michis :octocat:
+* Siempre me gust√≥ todo lo relacionado con la astronom√≠a, todo lo relacionado con el universo es algo que me encanta y me gustar√≠a leer m√°s sobre todo eso
+* Mi objetivo este a√±o es poder avanzar en el aprendizaje de la programaci√≥n y ya poder ser capaz de crear proyectos propios por mi propia cuenta
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
